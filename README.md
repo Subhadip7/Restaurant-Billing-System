@@ -79,6 +79,10 @@ This code is for a pizza restaurant billing system. It helps you do several thin
 
 
 
+
+This is how it works: 
+
+
 ![Screenshot 2024-08-30 203929](https://github.com/user-attachments/assets/a6fc7120-d7ae-4702-9bdc-adf266e8a690)
 
 ![Screenshot 2024-08-30 203959](https://github.com/user-attachments/assets/669e2e0a-db2c-4ca1-9098-19738e8e1e16)
