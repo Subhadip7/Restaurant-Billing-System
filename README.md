@@ -3,12 +3,12 @@ This code is for a restaurant's billing system.
 
 It allows you to:
 
-**1.View the menu:** See the list of items available with their prices.
-**2.Generate an invoice: **Create a bill for a customer based on what they ordered.
-**3.Show all invoices:** Display all the invoices that have been saved.
-**4.Search for an invoice: **Find a specific customer's invoice.
-**5.Edit an invoice:** Make changes to an already saved invoice.
-**6.Exit the program:** Stop running the program.
+1. **View the menu**: See the list of items available with their prices.
+2. **Generate an invoice**: Create a bill for a customer based on what they ordered.
+3. **Show all invoices**: Display all the invoices that have been saved.
+4. **Search for an invoice**: Find a specific customer's invoice.
+5. **Edit an invoice**: Make changes to an already saved invoice.
+6. **Exit the program**: Stop running the program.
 
 
 Let's go through the code step by step in a very simple and easy-to-understand way.
