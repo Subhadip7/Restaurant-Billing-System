@@ -78,3 +78,22 @@ This code is for a pizza restaurant billing system. It helps you do several thin
 - **Edit Invoice**: Make changes to an existing bill.
 
 
+
+![Screenshot 2024-08-30 203929](https://github.com/user-attachments/assets/a6fc7120-d7ae-4702-9bdc-adf266e8a690)
+
+![Screenshot 2024-08-30 203959](https://github.com/user-attachments/assets/669e2e0a-db2c-4ca1-9098-19738e8e1e16)
+
+![Screenshot 2024-08-30 204020](https://github.com/user-attachments/assets/d54448be-a3d9-4b81-9816-71309d9870be)
+
+![Screenshot 2024-08-30 204041](https://github.com/user-attachments/assets/5970b288-11f0-41ce-aec1-760a06d1281b)
+
+![Screenshot 2024-08-30 204056](https://github.com/user-attachments/assets/557aed95-b8aa-4501-8c91-7f2c5f932647)
+
+![Screenshot 2024-08-30 204115](https://github.com/user-attachments/assets/a03d1f39-230b-473d-b4db-04686624ddf9)
+
+
+
+
+
+
+
